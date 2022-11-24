@@ -4,7 +4,7 @@ name: No git plugin
 file_version: 1.0.2
 app_version: 0.10.0-2
 file_blobs:
-  testfile: d7b9b6806553264e7002dcb3817f23f444c0e8a7
+  testfile: d5816d041a63ed6199399b8fe995ebd17dede5d1
 ---
 
 testing without plugin
@@ -21,8 +21,8 @@ This is a snippet without GitHub plugin
 🟩 1      Test repo 1 
 🟩 2      this is a test
 🟩 3      new line
-🟩 4      and another to select
-⬜ 5      
+🟩 4      THIS IS THE UPDATE
+🟩 5      and another to select
 ```
 
 <br/>
