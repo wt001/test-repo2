@@ -1,16 +1,13 @@
 ---
 id: i9y5b
 name: No git plugin
-file_version: 1.0.2
-app_version: 0.10.0-2
+file_version: 1.1.0
+app_version: 1.0.3
 file_blobs:
-  testfile: d5816d041a63ed6199399b8fe995ebd17dede5d1
+  testfile: a17023b5a9c3f6889721867cc12c815180046161
 ---
 
 testing without plugin
-
-
-
 
 <br/>
 
@@ -24,6 +21,10 @@ This is a snippet without GitHub plugin
 🟩 4      THIS IS THE UPDATE
 🟩 5      and another to select
 ```
+
+<br/>
+
+<br/>
 
 <br/>
 
